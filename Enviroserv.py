@@ -108,6 +108,7 @@ while True:
 		})
 	with open ('EnviroDat.txt', 'w') as outfile :
 		json.dump (outputData, outfile)
+		outfile.write('\n')
 
 
         if math.isnan(temp) == False and math.isnan(humidity) == False:
