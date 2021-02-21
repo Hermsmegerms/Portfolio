@@ -1,5 +1,3 @@
-## Welcome to Cole Herman's Protfolio
-
 ![](https://github.com/Hermsmegerms/Portfolio/blob/gh-pages/photo4938553280880027961%20(1).jpg)
 
 ### Project Part 1
