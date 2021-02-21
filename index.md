@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-https://github.com/Hermsmegerms/Portfolio/blob/gh-pages/photo4938553280880027961%20(1).jpg
+![](https://github.com/Hermsmegerms/Portfolio/blob/gh-pages/photo4938553280880027961%20(1).jpg)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
