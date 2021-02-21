@@ -101,6 +101,8 @@ while True:
 
 
 ### Project Part  2 You can access my Mongo DB scripts here. They were written in python
+The data base and json files are to large to store on git hub but it can be accessed here:
+https://drive.google.com/drive/folders/1pjZoslM0Pyl7kXR36hkXia0RDeQBUZS9?usp=sharing
 ```markdown  
 import json
 from bson import json_util
