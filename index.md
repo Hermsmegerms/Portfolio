@@ -129,4 +129,7 @@ main()
 
 ### Project Part 3 Data Minning
 I have a complete write up of my data mining projected here in a word document. This includes expansions ont he base project required for the Dat220 course.
-https://github.com/Hermsmegerms/Portfolio/blob/gh-pages/Database%20analysis%20Dat220.docx
+```markdown
+[Link](https://github.com/Hermsmegerms/Portfolio/blob/gh-pages/Database%20analysis%20Dat220.docx) 
+```
+
